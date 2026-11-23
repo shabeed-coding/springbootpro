@@ -15,4 +15,8 @@ public class GItController {
     public void getMessage(){
         System.out.println("new method");
     }
+
+    public void newMethod(){
+        System.out.println("thi soss");
+    }
 }
