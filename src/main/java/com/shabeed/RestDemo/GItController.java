@@ -12,5 +12,7 @@ public class GItController {
     public void getNewBranch(){
         System.out.println("in this montinotygi");
     }
-
+    public void getMessage(){
+        System.out.println("new method");
+    }
 }
